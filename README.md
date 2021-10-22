@@ -1,14 +1,12 @@
 # Challenge_ui_Hotel_Screen
 
 <hr>
-![challenge_ui]()
-![Screenshot_1634918886]()
 
 <table>
 <thead>
 <tr>
-<th align="center">Home screen</th>
-<th align="center">Splash screen</th>
+<th align="center">IMG Challenge</th>
+<th align="center">IMG CODE</th>
 
 </tr>
 </thead>
