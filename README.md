@@ -1,16 +1,38 @@
-# hotel_app_ui
+# Challenge_ui_Hotel_Screen
 
-A new Flutter project.
+<hr>
+![challenge_ui]()
+![Screenshot_1634918886]()
 
-## Getting Started
+<table>
+<thead>
+<tr>
+<th align="center">Home screen</th>
+<th align="center">Splash screen</th>
 
-This project is a starting point for a Flutter application.
+</tr>
+</thead>
+<tbody>
+<tr>
+  
+<td align="center">
+  <a target="_blank" rel="" href="https://user-images.githubusercontent.com/69757558/138488494-14666aa2-b0ed-4cdd-a5c5-7a07c93664cc.png">
+        <img src="https://user-images.githubusercontent.com/69757558/138488494-14666aa2-b0ed-4cdd-a5c5-7a07c93664cc.png" alt="Css Logo" with="200" height="400"/>
 
-A few resources to get you started if this is your first Flutter project:
+  </a></td>
+  
+<td align="center">
+  <a target="_blank" rel="" href="https://user-images.githubusercontent.com/69757558/138488503-c3bcb96d-2c48-42ac-9012-34711e4d76bc.png">
+      <img src="https://user-images.githubusercontent.com/69757558/138488503-c3bcb96d-2c48-42ac-9012-34711e4d76bc.png" alt="Css Logo" with="200" height="400"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  </a></td>
+  
+ 
+  
+  
+</tr>
+</tbody>
+</table>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<hr>
+<h1> made with algeria 🖤 By DZ-TM071 </h1>
