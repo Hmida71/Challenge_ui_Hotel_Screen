@@ -1,37 +1,16 @@
-# Challenge_ui_Hotel_Screen
-<hr>
+# hotel_app_ui
 
-<table>
-<thead>
-<tr>
-<th align="center">IMG Challenge</th>
-<th align="center">IMG CODE</th>
+A new Flutter project.
 
-</tr>
-</thead>
-<tbody>
-<tr>
-  
-<td align="center">
-  <a target="_blank" rel="" href="https://user-images.githubusercontent.com/69757558/138487286-8554716c-9385-4627-a817-bf6a18f1ff0b.png">
-        <img src="https://user-images.githubusercontent.com/69757558/138487286-8554716c-9385-4627-a817-bf6a18f1ff0b.png" alt="Css Logo" with="200" height="400"/>
+## Getting Started
 
-  </a></td>
-  
-<td align="center">
-  <a target="_blank" rel="" href="https://user-images.githubusercontent.com/69757558/138487731-481e61ee-2c45-4cdd-be15-5ac85881865b.png">
-<img src="https://user-images.githubusercontent.com/69757558/138487731-481e61ee-2c45-4cdd-be15-5ac85881865b.png" alt="Css Logo" with="200" height="400"/>
+This project is a starting point for a Flutter application.
 
-  </a></td>
-  
- 
-  
-  
-</tr>
-</tbody>
-</table>
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-
-<hr>
-made with algeria 🖤 By Dz-Tm071
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
