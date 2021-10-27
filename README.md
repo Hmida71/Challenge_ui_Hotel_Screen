@@ -1,4 +1,4 @@
-# Challenge_ui_Hotel_Screen 🔥🔥
+# Challenge_ui_Hotel_Screen
 
 <hr>
 
