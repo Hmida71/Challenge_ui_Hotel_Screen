@@ -35,4 +35,5 @@
 </table>
 
 <hr>
+<hr>
 <h1> made with algeria 🖤 By DZ-TM071 🚀 </h1>
